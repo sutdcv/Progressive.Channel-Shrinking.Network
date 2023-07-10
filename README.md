@@ -14,12 +14,15 @@ by
 If you find our project useful in your research, please consider citing:
 
 ```
-@article{pan2023progressive,
-  title={Progressive Channel-Shrinking Network},
+@ARTICLE{10169086,
   author={Pan, Jianhong and Yang, Siyuan and Foo, Lin Geng and Ke, Qiuhong and Rahmani, Hossein and Fan, Zhipeng and Liu, Jun},
-  journal={arXiv preprint arXiv:2304.00280},
-  year={2023}
-}
+  journal={IEEE Transactions on Multimedia}, 
+  title={Progressive Channel-Shrinking Network}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-11},
+  doi={10.1109/TMM.2023.3291197}}
 ```
 
 ## Introduction
